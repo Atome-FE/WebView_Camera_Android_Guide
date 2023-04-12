@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pintar_Andorid_Guide</string>
+    <string name="string_open_webview">Open WebView</string>
+    <string name="string_open_qr">Open Qr Scan</string>
+    <string name="string_qr_hint">Align the QR code in the frame to scan</string>
+    <string name="string_hint">pls input link url , or click qr scan</string>
+
+</resources>
